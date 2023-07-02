@@ -1,5 +1,5 @@
-PyBank:
+PyBank(Budget analysis):
 Used Python to run financial analysis on Profit and losses.
 
-PyPoll:
+PyPoll (Election analysis):
 Used Python to calculate hypothetical election analysis.
